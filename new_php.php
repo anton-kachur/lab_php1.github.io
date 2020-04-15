@@ -3,7 +3,6 @@
     session_start();
     $_SESSION['s'] = "Пример на new_php.php";
 
-    //unset($_SESSION['s'])
 ?>
 
 <html>
